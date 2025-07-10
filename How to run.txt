@@ -112,6 +112,7 @@ SUPPORT
 For any issues running the app, contact the developer or open an issue in the GitHub repository.
 
 emails: 
+gaznavisheikh01@gmail.com
 manishwalurkar4@gmail.com
 farkaderohit2003@gmail.com
-gaznavisheikh01@gmail.com
+
