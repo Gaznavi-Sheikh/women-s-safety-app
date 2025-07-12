@@ -56,6 +56,19 @@
 
 ---
 
+## 🏅 Research Publication
+🎓 This project has been published as part of a recognized research paper, validating its real-world impact and innovation in women's safety.
+
+📄 **Title** - Shield Sisters: A Mobile Application for Women’s Safety  
+📝 **Author** - Gaznavi Sheikh  
+🏢 **Published in** - International Journal of Scientific Research in Engineering and Management (IJSREM), Volume 09, Issue 03, March 2025 
+📜 **Certificate of Publication - [View Research Paper](https://ijsrem.com/download/a-location-based-safety-application-for-enhancing-womens-safety/)**
+
+📜 **Certificate of Publication**
+ ![Certificate](ResearchPaper + Certificate/e- Certificate IJSREM Gaznavi Sheikh.jpg)
+
+---
+
 ## 💡 Getting Started (Developers)
 
 ```bash
