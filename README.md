@@ -65,7 +65,7 @@
 📜 **Certificate of Publication - [View Research Paper](https://ijsrem.com/download/a-location-based-safety-application-for-enhancing-womens-safety/)**
 
 📜 **Certificate of Publication**
-![Certificate](ResearchPaper_&_Certificate/publication_certificate.jpg)
+![Certificate](ResearchPaper_&_Certificate/publication_certificate.png)
 
 ---
 
