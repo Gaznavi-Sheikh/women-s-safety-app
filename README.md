@@ -1,4 +1,4 @@
-# SS2
+# Shield Sister's 
 
 ![Shield Sister Banner](Screenshots/Logo.png) 
 
@@ -59,7 +59,7 @@
 ## 💡 Getting Started (Developers)
 
 ```bash
-git clone https://github.com/Manish-128/SS2.git
+git clone https://github.com/Gaznavi-Sheikh/women-s-safety-app
 cd SS2
 flutter pub get
 flutter run
