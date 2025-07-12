@@ -43,7 +43,7 @@
 
 | Home Screen | Map Page | Community Page |
 |------------|------------|----------------|
-| ![Home](Screenshots/Homepage.jpg) | ![Map](Screenshots/Map.jpg) | ![Community](Screenshots/Community.jpg) |
+| ![Home](Screenshots/Homepage.jpg) | ![Map](Screenshots/Map.jpg) | ![Community](Screenshots/CommunityP.jpg) |
 
 ---
 
